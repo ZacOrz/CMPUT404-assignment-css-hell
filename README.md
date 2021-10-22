@@ -21,6 +21,7 @@ style of the HTML.
 font size and atyle as Georgia, 'Times New Roman', Times, serif
 
 and the background-color as 
+
 rgb(242,232,123);
 radial-gradient(circle, rgba(242,232,123,1) 26%, 
 rgba(236,226,139,1) 37%, rgba(255,213,119,1) 100%)
@@ -30,13 +31,16 @@ and image as border: 5px solid #f0e15d;
 Reference
 =========
 
-Link of Gutenberg HTML:
+## Link of Gutenberg HTML:
 
 https://www.gutenberg.org/cache/epub/1250/pg1250-images.html#link2H_PART1
+
 https://www.gutenberg.org/cache/epub/1727/pg1727-images.html
+
 https://www.gutenberg.org/cache/epub/55/pg55-images.html
 
-css reference link:
+
+## css reference link:
 
 https://www.w3schools.com/css/
 https://cssgradient.io/gradient-backgrounds/
